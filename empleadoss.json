@@ -1,0 +1,877 @@
+[
+  {
+    "nombre": "Pedro Hernández",
+    "identificacion": 66310356,
+    "perfil": "Analista de Datos",
+    "ciudad": "Pasto",
+    "correo": "venomstrike@gmail.com",
+    "tel": "+57 936482211",
+    "fechaIngreso": "2021-10-08",
+    "fechaSalida": "2022-06-16",
+    "descripcion": "Amante de la resolución de problemas",
+    "visible": 1,
+    "tecnologias": [
+      {
+        "nombre": "Scrum Master",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "Eclipse",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "IBM Integration Bus",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "MongoDB",
+        "nivel": "Medio"
+      },
+      {
+        "nombre": "Angular",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "Android",
+        "nivel": "Medio"
+      },
+      {
+        "nombre": "Microsoft SQL Server",
+        "nivel": "Medio"
+      },
+      {
+        "nombre": "Java",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "Vue",
+        "nivel": "Medio"
+      },
+      {
+        "nombre": "Power BI",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "PHP",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "Amazon Web Services",
+        "nivel": "Senior"
+      }
+    ],
+    "idusuario": "e5398040"
+  },
+  {
+    "nombre": "Andrés Ramírez",
+    "identificacion": 19097599,
+    "perfil": "DevOps Engineer",
+    "ciudad": "Tunja",
+    "correo": "neonblaze@gmail.com",
+    "tel": "+57 847582125",
+    "fechaIngreso": "2022-01-30",
+    "fechaSalida": "2021-01-30",
+    "descripcion": "Experto en seguridad informática",
+    "visible": 1,
+    "tecnologias": [
+      {
+        "nombre": "Amazon Web Services",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "Android",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "GlassFish",
+        "nivel": "Master"
+      },
+      {
+        "nombre": "C#",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "JavaScript",
+        "nivel": "Medio"
+      },
+      {
+        "nombre": "Java",
+        "nivel": "Master"
+      },
+      {
+        "nombre": "JavaScript",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "Fluter",
+        "nivel": "Medio"
+      }
+    ],
+    "idusuario": "6e8e27dc"
+  },
+  {
+    "nombre": "Carolina Cruz",
+    "identificacion": 75487850,
+    "perfil": "Ingeniero de Software",
+    "ciudad": "Santa Marta",
+    "correo": "abejita777@gmail.com",
+    "tel": "+57 874760766",
+    "fechaIngreso": "2022-11-11",
+    "fechaSalida": "2022-09-22",
+    "descripcion": "Creativo y curioso",
+    "visible": 1,
+    "tecnologias": [
+      {
+        "nombre": "Java",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "Spring (JAVA)",
+        "nivel": "Medio"
+      },
+      {
+        "nombre": "Node js",
+        "nivel": "Medio"
+      },
+      {
+        "nombre": "IntelliJ IDEA",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "Postman",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "PL-SQL (Oracle)",
+        "nivel": "Senior"
+      }
+    ],
+    "idusuario": "f21c2a30"
+  },
+  {
+    "nombre": "Fernando Álvarez",
+    "identificacion": 33262802,
+    "perfil": "Tester",
+    "ciudad": "Medellín",
+    "correo": "venomstrike@gmail.com",
+    "tel": "+57 917484313",
+    "fechaIngreso": "2019-07-20",
+    "fechaSalida": "2022-03-06",
+    "descripcion": "Gurú del front-end",
+    "visible": 1,
+    "tecnologias": [
+      {
+        "nombre": "Python",
+        "nivel": "Master"
+      },
+      {
+        "nombre": "JavaScript",
+        "nivel": "Medio"
+      },
+      {
+        "nombre": "DevOps",
+        "nivel": "Medio"
+      },
+      {
+        "nombre": "Amazon Web Services",
+        "nivel": "Master"
+      },
+      {
+        "nombre": "Git",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "PHP",
+        "nivel": "Senior"
+      }
+    ],
+    "idusuario": "b9333b4b"
+  },
+  {
+    "nombre": "Valentina Pérez",
+    "identificacion": 87745750,
+    "perfil": "Diseñador",
+    "ciudad": "Sincelejo",
+    "correo": "stormrider@gmail.com",
+    "tel": "+57 147653164",
+    "fechaIngreso": "2021-01-24",
+    "fechaSalida": "2021-09-02",
+    "descripcion": "Amante del código limpio",
+    "visible": 1,
+    "tecnologias": [
+      {
+        "nombre": "HTML",
+        "nivel": "Master"
+      },
+      {
+        "nombre": "Jira",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "Eclipse",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "Scrum Developer",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "Git",
+        "nivel": "Medio"
+      },
+      {
+        "nombre": "PL-SQL (Oracle)",
+        "nivel": "Master"
+      },
+      {
+        "nombre": "Laravel",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "JavaScript",
+        "nivel": "Junior"
+      }
+    ],
+    "idusuario": "75aea8b1"
+  },
+  {
+    "nombre": "Juan Sánchez",
+    "identificacion": 25356491,
+    "perfil": "Ingeniero de Software",
+    "ciudad": "Manizales",
+    "correo": "novaflare@gmail.com",
+    "tel": "+57 676462855",
+    "fechaIngreso": "2020-02-29",
+    "fechaSalida": "2021-09-25",
+    "descripcion": "Gestor de proyectos eficiente",
+    "visible": 1,
+    "tecnologias": [
+      {
+        "nombre": "Fluter",
+        "nivel": "Medio"
+      },
+      {
+        "nombre": "GlassFish",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "Python",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "Jira",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "Python",
+        "nivel": "Medio"
+      },
+      {
+        "nombre": "Scrum Developer",
+        "nivel": "Master"
+      },
+      {
+        "nombre": "HTML",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "Python",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "React js",
+        "nivel": "Master"
+      },
+      {
+        "nombre": "Laravel",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "JavaScript",
+        "nivel": "Junior"
+      }
+    ],
+    "idusuario": "669e0b25"
+  },
+  {
+    "nombre": "Alejandro Castro",
+    "identificacion": 26563766,
+    "perfil": "Arquitecto de Software",
+    "ciudad": "Pereira",
+    "correo": "cyberhawk@gmail.com",
+    "tel": "+57 172439175",
+    "fechaIngreso": "2022-02-26",
+    "fechaSalida": "2022-02-22",
+    "descripcion": "Gestor de proyectos eficiente",
+    "visible": 1,
+    "tecnologias": [
+      {
+        "nombre": "CSS",
+        "nivel": "Medio"
+      },
+      {
+        "nombre": "Amazon Web Services",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "PHP",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "Eclipse",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "PL-SQL (Oracle)",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "React js",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "JavaScript",
+        "nivel": "Master"
+      },
+      {
+        "nombre": "Microsoft SQL Server",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "Spring (JAVA)",
+        "nivel": "Medio"
+      },
+      {
+        "nombre": "Eclipse",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "PostgreSQL",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "Laravel",
+        "nivel": "Senior"
+      }
+    ],
+    "idusuario": "a22c2eb0"
+  },
+  {
+    "nombre": "Alejandro Castro",
+    "identificacion": 64838014,
+    "perfil": "Gerente",
+    "ciudad": "Montería",
+    "correo": "abejita777@gmail.com",
+    "tel": "+57 525488232",
+    "fechaIngreso": "2021-05-22",
+    "fechaSalida": "2021-12-22",
+    "descripcion": "Especialista en diseño de interfaces",
+    "visible": 1,
+    "tecnologias": [
+      {
+        "nombre": "C#",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "Angular",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "IBM Db2",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "Oracle Forms (Oracle)",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "Jira",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "MongoDB",
+        "nivel": "Medio"
+      },
+      {
+        "nombre": "PL-SQL (Oracle)",
+        "nivel": "Master"
+      },
+      {
+        "nombre": "CSS",
+        "nivel": "Senior"
+      }
+    ],
+    "idusuario": "37898dec"
+  },
+  {
+    "nombre": "Juan Vargas",
+    "identificacion": 79905469,
+    "perfil": "Scrum Master",
+    "ciudad": "Villavicencio",
+    "correo": "nighthawk@gmail.com",
+    "tel": "+57 612990003",
+    "fechaIngreso": "2022-08-18",
+    "fechaSalida": "2021-03-13",
+    "descripcion": "Innovador en tecnologías emergentes",
+    "visible": 1,
+    "tecnologias": [
+      {
+        "nombre": "JavaScript",
+        "nivel": "Master"
+      },
+      {
+        "nombre": "Scrum Master",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "PL-SQL (Oracle)",
+        "nivel": "Master"
+      },
+      {
+        "nombre": "Vue",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "IBM Db2",
+        "nivel": "Master"
+      },
+      {
+        "nombre": "Trello",
+        "nivel": "Master"
+      },
+      {
+        "nombre": "PL-SQL (Oracle)",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "Swift",
+        "nivel": "Master"
+      },
+      {
+        "nombre": "PostgreSQL",
+        "nivel": "Master"
+      },
+      {
+        "nombre": "Python",
+        "nivel": "Junior"
+      }
+    ],
+    "idusuario": "a68ecab5"
+  },
+  {
+    "nombre": "Andrés Vargas",
+    "identificacion": 66035664,
+    "perfil": "Gerente",
+    "ciudad": "Bogotá",
+    "correo": "scarletflare@gmail.com",
+    "tel": "+57 692542545",
+    "fechaIngreso": "2021-12-26",
+    "fechaSalida": "2021-04-30",
+    "descripcion": "Experto en seguridad informática",
+    "visible": 1,
+    "tecnologias": [
+      {
+        "nombre": "C#",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "PL-SQL (Oracle)",
+        "nivel": "Medio"
+      },
+      {
+        "nombre": "PostgreSQL",
+        "nivel": "Medio"
+      },
+      {
+        "nombre": ".NET CORE",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "Scrum Master",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "Python",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": ".NET CORE",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "GlassFish",
+        "nivel": "Medio"
+      },
+      {
+        "nombre": "Oracle Forms (Oracle)",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "PHP",
+        "nivel": "Master"
+      }
+    ],
+    "idusuario": "2a417d77"
+  },
+  {
+    "nombre": "María Morales",
+    "identificacion": 59423591,
+    "perfil": "Ingeniero de Software",
+    "ciudad": "Pereira",
+    "correo": "shadowdancer@gmail.com",
+    "tel": "+57 434233844",
+    "fechaIngreso": "2019-11-07",
+    "fechaSalida": "2023-01-14",
+    "descripcion": "Experto en seguridad informática",
+    "visible": 1,
+    "tecnologias": [
+      {
+        "nombre": "Power BI",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "IBM Integration Bus",
+        "nivel": "Master"
+      },
+      {
+        "nombre": "CSS",
+        "nivel": "Master"
+      },
+      {
+        "nombre": "Java",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "DevOps",
+        "nivel": "Medio"
+      },
+      {
+        "nombre": "Laravel",
+        "nivel": "Medio"
+      },
+      {
+        "nombre": "Scrum Developer",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "Java",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "Python",
+        "nivel": "Master"
+      },
+      {
+        "nombre": "JavaScript",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "Microsoft SQL Server",
+        "nivel": "Medio"
+      },
+      {
+        "nombre": "Spring (JAVA)",
+        "nivel": "Junior"
+      }
+    ],
+    "idusuario": "7697f32b"
+  },
+  {
+    "nombre": "Alejandro González",
+    "identificacion": 74540627,
+    "perfil": "Product Owner",
+    "ciudad": "Pasto",
+    "correo": "firefly98@gmail.com",
+    "tel": "+57 996252792",
+    "fechaIngreso": "2021-02-12",
+    "fechaSalida": "2023-02-09",
+    "descripcion": "Amante de la resolución de problemas",
+    "visible": 1,
+    "tecnologias": [
+      {
+        "nombre": "Ruby",
+        "nivel": "Master"
+      },
+      {
+        "nombre": "PostgreSQL",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "Oracle Reports (Oracle)",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "Spring (JAVA)",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "PostgreSQL",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "Oracle Forms (Oracle)",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "Laravel",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "Amazon Web Services",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "DevOps",
+        "nivel": "Medio"
+      },
+      {
+        "nombre": "JavaScript",
+        "nivel": "Medio"
+      }
+    ],
+    "idusuario": "6c1b1dcb"
+  },
+  {
+    "nombre": "Juan Flores",
+    "identificacion": 27155521,
+    "perfil": "Gerente",
+    "ciudad": "Cúcuta",
+    "correo": "venomstrike@gmail.com",
+    "tel": "+57 869208054",
+    "fechaIngreso": "2019-06-06",
+    "fechaSalida": "2021-10-10",
+    "descripcion": "Comunicación efectiva y trabajo en equipo",
+    "visible": 1,
+    "tecnologias": [
+      {
+        "nombre": "Product Owner",
+        "nivel": "Master"
+      },
+      {
+        "nombre": "Python",
+        "nivel": "Medio"
+      },
+      {
+        "nombre": "React js",
+        "nivel": "Medio"
+      },
+      {
+        "nombre": "HTML",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "Microsoft SQL Server",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "GlassFish",
+        "nivel": "Medio"
+      },
+      {
+        "nombre": "Kotlin",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "Git",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "HTML",
+        "nivel": "Medio"
+      },
+      {
+        "nombre": "Oracle Reports (Oracle)",
+        "nivel": "Senior"
+      }
+    ],
+    "idusuario": "e1c6338d"
+  },
+  {
+    "nombre": "Juan Gómez",
+    "identificacion": 59976556,
+    "perfil": "Product Owner",
+    "ciudad": "Manizales",
+    "correo": "serpentshadow@gmail.com",
+    "tel": "+57 243930190",
+    "fechaIngreso": "2020-12-17",
+    "fechaSalida": "2023-04-15",
+    "descripcion": "Gestor de proyectos eficiente",
+    "visible": 1,
+    "tecnologias": [
+      {
+        "nombre": "Fluter",
+        "nivel": "Medio"
+      },
+      {
+        "nombre": "Ruby",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "Java",
+        "nivel": "Medio"
+      },
+      {
+        "nombre": "Vue",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "IBM Db2",
+        "nivel": "Medio"
+      },
+      {
+        "nombre": ".NET CORE",
+        "nivel": "Medio"
+      }
+    ],
+    "idusuario": "63e486df"
+  },
+  {
+    "nombre": "Diego Álvarez",
+    "identificacion": 21251128,
+    "perfil": "Diseñador",
+    "ciudad": "Barranquilla",
+    "correo": "voidwalker@gmail.com",
+    "tel": "+57 414501120",
+    "fechaIngreso": "2021-04-13",
+    "fechaSalida": "2022-01-22",
+    "descripcion": "Amante del código limpio",
+    "visible": 1,
+    "tecnologias": [
+      {
+        "nombre": "JavaScript",
+        "nivel": "Master"
+      },
+      {
+        "nombre": "Android",
+        "nivel": "Medio"
+      },
+      {
+        "nombre": "Android",
+        "nivel": "Medio"
+      },
+      {
+        "nombre": "Angular",
+        "nivel": "Master"
+      },
+      {
+        "nombre": "Scrum Developer",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "Power BI",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "JavaScript",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "C ++",
+        "nivel": "Medio"
+      }
+    ],
+    "idusuario": "480033ea"
+  },
+  {
+    "nombre": "Camilo Ramírez",
+    "identificacion": 55968859,
+    "perfil": "Tester",
+    "ciudad": "Cartagena",
+    "correo": "phantomfang@gmail.com",
+    "tel": "+57 714232420",
+    "fechaIngreso": "2021-11-16",
+    "fechaSalida": "2021-09-03",
+    "descripcion": "Creativo y curioso",
+    "visible": 1,
+    "tecnologias": [
+      {
+        "nombre": "Eclipse",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "HTML",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "IBM Db2",
+        "nivel": "Master"
+      },
+      {
+        "nombre": "Fluter",
+        "nivel": "Master"
+      },
+      {
+        "nombre": "Power BI",
+        "nivel": "Master"
+      },
+      {
+        "nombre": "Git",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "PHP",
+        "nivel": "Medio"
+      }
+    ],
+    "idusuario": "c95b0984"
+  },
+  {
+    "nombre": "Isabella Sánchez",
+    "identificacion": 14894521,
+    "perfil": "DevOps Engineer",
+    "ciudad": "Pasto",
+    "correo": "thunderstrike@gmail.com",
+    "tel": "+57 731716540",
+    "fechaIngreso": "2020-01-06",
+    "fechaSalida": "2021-05-22",
+    "descripcion": "Experto en bases de datos",
+    "visible": 1,
+    "tecnologias": [
+      {
+        "nombre": "Product Owner",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "PostgreSQL",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "HTML",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "Kotlin",
+        "nivel": "Medio"
+      },
+      {
+        "nombre": "Vue",
+        "nivel": "Master"
+      },
+      {
+        "nombre": "IBM Integration Bus",
+        "nivel": "Master"
+      },
+      {
+        "nombre": "Angular",
+        "nivel": "Senior"
+      },
+      {
+        "nombre": "Android",
+        "nivel": "Master"
+      },
+      {
+        "nombre": "Python",
+        "nivel": "Master"
+      },
+      {
+        "nombre": "IBM Db2",
+        "nivel": "Junior"
+      },
+      {
+        "nombre": "Oracle Reports (Oracle)",
+        "nivel": "Master"
+      }
+    ],
+    "idusuario": "cacf9dbc"
+  }
+]
